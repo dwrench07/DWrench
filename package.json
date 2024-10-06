@@ -9,6 +9,7 @@
   "devDependencies": {
     "eslint": "^8.43.0",
     "eslint-plugin-react": "^7.32.2",
+    "gh-pages": "^6.1.1",
     "react-scripts": "1.0.0"
   },
   "name": "ck4w6m",
