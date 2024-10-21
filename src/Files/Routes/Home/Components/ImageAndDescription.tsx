@@ -12,7 +12,7 @@ interface ImageAndDescriptionProps {
     hideDetails?: boolean;
 }
 
-export default function ImageAndDescription(props: ImageAndDescriptionProps){
+export default function ImageAndDescription(props: ImageAndDescriptionProps) {
     return(
         <Container>
             <Row>
