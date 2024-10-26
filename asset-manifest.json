@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/DWrench/static/css/main.31d6cfe0.css",
-    "main.js": "/DWrench/static/js/main.0e8e6ab7.js",
+    "main.js": "/DWrench/static/js/main.b5e6e3f7.js",
     "static/js/453.ed3810f9.chunk.js": "/DWrench/static/js/453.ed3810f9.chunk.js",
     "index.html": "/DWrench/index.html",
-    "main.0e8e6ab7.js.map": "/DWrench/static/js/main.0e8e6ab7.js.map",
+    "main.b5e6e3f7.js.map": "/DWrench/static/js/main.b5e6e3f7.js.map",
     "453.ed3810f9.chunk.js.map": "/DWrench/static/js/453.ed3810f9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.31d6cfe0.css",
-    "static/js/main.0e8e6ab7.js"
+    "static/js/main.b5e6e3f7.js"
   ]
 }
