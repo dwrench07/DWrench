@@ -12,6 +12,11 @@ const router = createBrowserRouter([
     path: "/",
     element: <Home />,
   },
+  {
+    path: "/Dwrench",
+    element: <Home />,
+  },
+  
 ]);
 
 function App() {
