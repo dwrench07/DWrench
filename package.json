@@ -44,13 +44,12 @@
     ]
   },
   "devDependencies": {
-    "gh-pages": "^6.2.0",
     "@babel/plugin-proposal-private-property-in-object": "^7.21.11",
     "@eslint/js": "^9.13.0",
     "eslint": "^8.57.1",
     "eslint-plugin-react": "^7.37.1",
+    "gh-pages": "^6.2.0",
     "globals": "^15.11.0",
     "typescript-eslint": "^8.10.0"
-
   }
 }
